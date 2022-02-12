@@ -4,5 +4,14 @@ fn main() {
     line comment in
     rust programming
     language*/
-    println!("Hello, world!");
+    fn main() {
+        println!("Hello, world!");
+    
+        another_function();
+    }
+    
+    fn another_function() {
+        println!("Another function.");
+    }
+    
 }
