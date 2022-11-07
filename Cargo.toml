@@ -1,8 +1,8 @@
 [package]
-name = "hello-world-cargo"
+name = "system-monitor-tools"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["Mashfiqr Rahman mashfiqur2020@gmail.com"]
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]

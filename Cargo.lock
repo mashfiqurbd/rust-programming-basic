@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "hello-world-cargo"
+name = "system-monitor-tools"
 version = "0.1.0"
